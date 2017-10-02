@@ -29,8 +29,4 @@ a) Steps to run the program
 4) Store the main bootstrap.java file along with the files to be processed in the newyork folder. 
 5) Store the Process_Mapreduce.java file in the remaining folder. These servers in future will be behaving either as mapper or reducer for processing the file. 
 6) Compile and run all the files. 
-7) View the console and follow the instructions to view the difference in time consumed while processing the file on single server and while processing it using map-reduce framework
-
-
-b) Summary: 
-We designed our own map-reduce algorithm. Our algorithm based on the file size decides the number of mappers to be used to complete the job. After every job completion we keep a track of slow mapper and ensure that it will be used as reducer for next job and not as a mapper. We provide the statistics of the time taken to complete the job in the single machine and a set of machines using map-reduce algorithm.
+7) View the console and follow the instructions to view the difference in time consumed while processing the file on single server and while processing it using map-reduce framework.
