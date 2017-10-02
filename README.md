@@ -23,13 +23,13 @@ Demo:
 
 
 a) Steps to run the program 
-i) Uncompress the zip file. 
-ii) Create seven folders for each glados, kansas, kinks, newyork, reddwarf, jopline, doors which represent multiple servers of the network. 
-iii) Store the Colors.java file in all the folders. 
-iv) Store the main bootstrap.java file along with the files to be processed in the newyork folder. 
-v) Store the Process_Mapreduce.java file in the remaining folder. These servers in future will be behaving either as mapper or reducer for processing the file. 
-vi) Compile and run all the files. 
-vii) View the console and follow the instructions to view the difference in time consumed while processing the file on single server and while processing it using map-reduce framework
+1) Uncompress the zip file. 
+2) Create seven folders for each glados, kansas, kinks, newyork, reddwarf, jopline, doors which represent multiple servers of the network. 
+3) Store the Colors.java file in all the folders. 
+4) Store the main bootstrap.java file along with the files to be processed in the newyork folder. 
+5) Store the Process_Mapreduce.java file in the remaining folder. These servers in future will be behaving either as mapper or reducer for processing the file. 
+6) Compile and run all the files. 
+7) View the console and follow the instructions to view the difference in time consumed while processing the file on single server and while processing it using map-reduce framework
 
 
 b) Summary: 
